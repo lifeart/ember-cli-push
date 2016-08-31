@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-push",
-  "version": "0.1.4",
-  "description": "Ember wrapper for Push.js - native notifications.",
+  "version": "0.1.6",
+  "description": "Ember wrapper for Push.js - native browser messages and notifications.",
   "directories": {
     "doc": "doc",
     "test": "tests"
