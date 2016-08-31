@@ -1,5 +1,4 @@
 # Ember-cli-push
-# Ember-cli-push-js-shim
 
 [![Build Status](https://travis-ci.org/lifeart/ember-cli-push.svg?branch=master)](https://travis-ci.org/chrism/ember-cli-push) [![Ember Observer Score](https://emberobserver.com/badges/ember-cli-push-js.svg)](https://emberobserver.com/addons/ember-cli-push)
 
