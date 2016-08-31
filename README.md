@@ -10,11 +10,24 @@ To include in your project install the addon as usual
 ember install ember-cli-push
 ```
 
+Usage example:
+
 
 ```javaScript
-{
-  push: Ember.inject.service();
-}
+import Ember from 'ember';
+
+export default Ember.Controller.extend({
+  push: Ember.inject.service(),
+  actions: {
+    sendPush() {
+      this.get('push').create("Hello world!", {
+        body: "How's it hangin'?",
+        icon: '/assets/images/logo.png',
+        timeout: 4000
+      });
+    }
+  }
+})
 ```
 
 This README outlines the details of collaborating on this Ember addon.
