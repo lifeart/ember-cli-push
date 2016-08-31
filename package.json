@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-push",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "description": "Ember wrapper for Push.js - native notifications.",
   "directories": {
     "doc": "doc",
@@ -11,7 +11,10 @@
     "start": "ember server",
     "test": "ember try:each"
   },
-  "repository": "https://github.com/lifeart/ember-cli-push.git",
+  "repository":  {
+    "type": "git",
+    "url": "https://github.com/lifeart/ember-cli-push"
+  },
   "engines": {
     "node": ">= 0.10.0"
   },
@@ -41,7 +44,7 @@
     "loader.js": "^4.0.1"
   },
   "keywords": [
-    "ember-addon", "ember-push", "ember-notifications", "push", "notifications", "messages", "services"
+    "ember-addon","push.js","push-js", "ember-push", "ember-notifications", "push", "notifications", "messages", "services"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.6"
