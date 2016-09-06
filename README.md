@@ -1,6 +1,7 @@
 # Ember-cli-push
 
 [![Build Status](https://travis-ci.org/lifeart/ember-cli-push.svg?branch=master)](https://travis-ci.org/lifeart/ember-cli-push) [![Ember Observer Score](https://emberobserver.com/badges/ember-cli-push.svg)](https://emberobserver.com/addons/ember-cli-push)
+[![Code Climate](https://codeclimate.com/github/lifeart/ember-cli-push/badges/gpa.svg)](https://codeclimate.com/github/lifeart/ember-cli-push)
 
 This is a simple service wrapper for [Push.js](http://nickersoft.github.io/push.js/) which allows you to easily create native cross-browser notifications.
 
