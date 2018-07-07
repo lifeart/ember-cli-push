@@ -1,14 +1,12 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
-<<<<<<< HEAD
 /dist
 /tmp
 .idea/*
 =======
 /dist/
 /tmp/
->>>>>>> 0eb1e43... message
 
 # dependencies
 /bower_components/
