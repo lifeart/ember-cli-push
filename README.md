@@ -1,3 +1,5 @@
+# This addon suspended, try [ember-cli-pushjs](https://github.com/devotox/ember-cli-pushjs)
+
 # Ember-cli-push
 
 [![Build Status](https://travis-ci.org/lifeart/ember-cli-push.svg?branch=master)](https://travis-ci.org/lifeart/ember-cli-push) [![Ember Observer Score](https://emberobserver.com/badges/ember-cli-push.svg)](https://emberobserver.com/addons/ember-cli-push)
